@@ -1,14 +1,15 @@
+<!-- @format -->
+
 # Hi, I'm Falase Femi! 👋
 
-I'm a software developer passionate about building REST APIs with Golang and working on projects using Next.js for the frontend. I'm currently focusing on software design systems and testing.
+I'm a frontend engineer and backend enthusiast specializing in REST API development with Golang and frontend projects using Next.js. With a strong focus on software design systems, testing, and open-source collaboration, I'm continuously expanding my skills in both backend and frontend domains.
 
-- 🔭 I’m currently working on a REST API project with Golang.
-- 🌱 I’m currently learning about software design systems and testing methodologies.
-- 👯 I’m looking to collaborate on any open-source projects involving Golang and Next.js.
-- 🤔 I’m looking for help with frontend-related questions and challenges.
-- 💬 Ask me about Golang, software design, testing, or anything frontend-related!
-- 📫 You can reach me via email: femifalase228@gmail.com
-- 😄 My pronouns are he/him.
-- ⚡ Fun fact: I enjoy playing the piano in my free time!
-
-You can check out my portfolio [here](https://personal-portfolio-ten-lac.vercel.app/) and my GitHub profile [here](https://github.com/Falasefemi2).
+- 🔭 Current Projects: I’m working on a REST API project in Golang and a Python-based betting tips model, aiming to refine my backend skills.
+- 🌱 Learning Goals: I'm diving deep into software design systems, testing methodologies, and exploring Python for computational finance.
+- 👯 Collaboration: Open to collaborating on open-source projects in Golang, Python, and Next.js. Let's build something impactful together!
+- 🤔 Looking for Help With: Frontend challenges, especially with UI design, state management, and anything that enhances user experiences.
+- 💬 Ask Me About: Golang, API development, software design principles, testing, and frontend engineering with Next.js.
+- 📫 Reach Me At: [here]femifalase228@gmail.com
+- 😄 Pronouns: he/him
+- 🎹 Fun Fact: I play the football and watch a lot of sporting events.
+  You can check out my portfolio [here](https://portfolio-version01.vercel.app/) and my GitHub profile [here](https://github.com/Falasefemi2).
