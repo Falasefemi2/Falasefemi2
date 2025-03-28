@@ -1,15 +1,36 @@
-<!-- @format -->
+💻 About Me
+👋 Hi, I'm Falase Femi – a Software Engineer passionate about backend and frontend development, specializing in:
 
-# Hi, I'm Falase Femi! 👋
+🖥️ Frontend: Next.js (App Router), React, Tailwind CSS, ShadCN UI
 
-I'm a frontend engineer and backend enthusiast specializing in REST API development with Golang and frontend projects using Next.js. With a strong focus on software design systems, testing, and open-source collaboration, I'm continuously expanding my skills in both backend and frontend domains.
+⚙️ Backend: FastAPI, Python, Java (Spring Boot in progress), Golang (future)
 
-- 🔭 Current Projects: I’m working on a REST API project in Golang and a Python-based betting tips model, aiming to refine my backend skills.
-- 🌱 Learning Goals: I'm diving deep into software design systems, testing methodologies, and exploring Python for computational finance.
-- 👯 Collaboration: Open to collaborating on open-source projects in Golang, Python, and Next.js. Let's build something impactful together!
-- 🤔 Looking for Help With: Frontend challenges, especially with UI design, state management, and anything that enhances user experiences.
-- 💬 Ask Me About: Golang, API development, software design principles, testing, and frontend engineering with Next.js.
-- 📫 Reach Me At: [here]femifalase228@gmail.com
-- 😄 Pronouns: he/him
-- 🎹 Fun Fact: I play the football and watch a lot of sporting events.
-  You can check out my portfolio [here](https://portfolio-version01.vercel.app/) and my GitHub profile [here](https://github.com/Falasefemi2).
+🗄️ Databases: PostgreSQL, NeonDB, Drizzle ORM
+
+🏗️ System Design & Algorithms: Studying DSA, LeetCode practice, backend architecture
+
+🚀 Next.js & Full-Stack Development
+🔹 I'm highly skilled in Next.js, leveraging App Router, server actions, and API routes to build dynamic applications.
+🔹 I aim to become a Full-Stack Developer, combining Next.js with FastAPI and Java for powerful web applications.
+
+📚 What I'm Learning
+🔵 Java for Backend Development – System design, Spring Boot (soon)
+
+🟢 FastAPI for high-performance APIs
+
+🔴 Data Structures & Algorithms – Grinding LeetCode
+
+🟡 Golang (Future Plan)
+
+🛠️ Tech Stack
+Languages: Python, Java, JavaScript, TypeScript, (Golang soon)
+Frameworks & Libraries: FastAPI, Next.js, React, TailwindCSS, ShadCN
+Databases: PostgreSQL, NeonDB, Drizzle ORM
+Tools: Git, GitHub, Docker, AWS
+🌱 Future Goals
+✔️ Master Full-Stack Development (Next.js + FastAPI/Java)
+✔️ Build scalable backend systems
+✔️ Contribute to Open Source
+✔️ Work on AI-driven projects
+
+
