@@ -41,5 +41,5 @@ Go backend engineering · Effect & functional programming · PostgreSQL internal
 ## GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Falasefemi2&show_icons=true&hide_border=true&count_private=true" />
+  https://github-readme-stats.vercel.app/api?username=falasefemi2
 </p>
